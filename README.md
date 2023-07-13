@@ -1,4 +1,4 @@
-# heavyN_mass_basis
+# heavyN in the mass basis
 
 Slightly modified version of: https://feynrules.irmp.ucl.ac.be/wiki/HeavyN
 
